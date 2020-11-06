@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>王远的主页</title>
+    <title>拉露露的博客</title>
 </head>
 <body>
     <img src="untitled.png" height="100" width="1000">
@@ -15,8 +15,8 @@
       Your browser does not support the audio tag.
       </audio>
     <h1 align = center>学生个人主页</h1>
-   <b>姓名:</b> 王远<br>
-    <img src="shuaige.jpg" alt="王远照片" title="帅哥王远"/>
+   <b>姓名:</b> 拉露露<br>
+    <img src="shuaige.jpg" alt="拉露露照片" title="拉露露"/>
     <br>
     <a href ="intradution.html" target="_blank">个人介绍</a>
     <br>
