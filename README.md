@@ -16,7 +16,7 @@
       </audio>
     <h1 align = center>学生个人主页</h1>
    <b>姓名:</b> 拉露露<br>
-    <img src="shuaige.jpg" alt="拉露露照片" title="拉露露"/>
+    <img src="ting.jpg" alt="拉露露照片" title="拉露露"/>
     <br>
     <a href ="intradution.html" target="_blank">个人介绍</a>
     <br>
